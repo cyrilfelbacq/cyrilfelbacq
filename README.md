@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Cyril</h1>
 <h3>A passionate frontend developer from France</h3>
 
-- 🌱 I’m currently learning more deeply **Vue (test E2E), Sass, Gsap, Html (accessibility, SVG, responsive), Javascript, Css**
+- 🌱 I’m currently learning more deeply **Vue (test E2E), Sass, Gsap, Html (accessibility, SVG, responsive), Css, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://cyrilfelbacq.com](https://cyrilfelbacq.com)
 
