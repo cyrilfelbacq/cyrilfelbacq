@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Cyril</h1>
 <h3>A passionate frontend developer from France</h3>
 
-- 🌱 I’m currently practicing **Vue, Sass (BEM), Firebase, Cloudinary**
+- 🌱 I’m currently practicing **Vue 3, Sass (BEM), Firebase, Cloudinary**
 
 - 👨‍💻 All of my projects are available at [https://cyrilfelbacq.com](https://cyrilfelbacq.com) (currently unavailable)
 
